@@ -1,12 +1,11 @@
-Escreva um programa que implemente os dois módulos
-apresentados no exemplo anterior (slide 18).
+Escreva um programa que implemente os dois mÃ³dulos.
 
-Obs.: as variáveis utilizadas nos módulos devem ser globais
+Obs.: as variÃ¡veis utilizadas nos mÃ³dulos devem ser globais
 obrigatoriamente;
 
-*O programa deve recolher os dados do usuário, em seguida
-passar os dados aos módulos para que façam o cálculo;
+*O programa deve recolher os dados do usuÃ¡rio, em seguida
+passar os dados aos mÃ³dulos para que faÃ§am o cÃ¡lculo;
 
-*Imprima na tela os resultados obtidos pelos módulos. A
-rotina de impressão deve ficar fora dos módulos de cálculo,
+*Imprima na tela os resultados obtidos pelos mÃ³dulos. A
+rotina de impressÃ£o deve ficar fora dos mÃ³dulos de cÃ¡lculo,
 ou seja deve ficar no main();
